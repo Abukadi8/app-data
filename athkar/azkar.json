@@ -1,1 +1,185 @@
 
+[
+  {
+    "id": 100,
+    "title": "أذكار الصباح",
+    "content": "",
+    "note2": "",
+    "link": "",
+    "order": 1,
+    "isGroup": true,
+    "parentId": 0
+  },
+  {
+    "id": 101,
+    "title": "دعاء الاستيقاظ",
+    "content": "الحمد لله الذي أحيانا بعدما أماتنا وإليه النشور.",
+    "note2": "يقال عند الاستيقاظ من النوم",
+    "link": "",
+    "order": 1,
+    "isGroup": false,
+    "parentId": 100
+  },
+  {
+    "id": 102,
+    "title": "آية الكرسي",
+    "content": "اللّه لا إله إلا هو الحي القيوم...",
+    "note2": "حفظ من كل شر",
+    "link": "",
+    "order": 2,
+    "isGroup": false,
+    "parentId": 100
+  },
+  {
+    "id": 103,
+    "title": "سيد الاستغفار",
+    "content": "اللهم أنت ربي لا إله إلا أنت...",
+    "note2": "أفضل صيغة للاستغفار",
+    "link": "",
+    "order": 3,
+    "isGroup": false,
+    "parentId": 100
+  },
+  {
+    "id": 104,
+    "title": "ذكر الصباح",
+    "content": "أصبحنا وأصبح الملك لله...",
+    "note2": "يقال صباحًا",
+    "link": "",
+    "order": 4,
+    "isGroup": false,
+    "parentId": 100
+  },
+  {
+    "id": 105,
+    "title": "دعاء الحفظ",
+    "content": "بسم الله الذي لا يضر مع اسمه شيء...",
+    "note2": "دعاء للحفظ من الشرور",
+    "link": "",
+    "order": 5,
+    "isGroup": false,
+    "parentId": 100
+  },
+
+  {
+    "id": 200,
+    "title": "أذكار المساء",
+    "content": "",
+    "note2": "",
+    "link": "",
+    "order": 2,
+    "isGroup": true,
+    "parentId": 0
+  },
+  {
+    "id": 201,
+    "title": "ذكر المساء",
+    "content": "أمسينا وأمسى الملك لله...",
+    "note2": "يقال مساءً",
+    "link": "",
+    "order": 1,
+    "isGroup": false,
+    "parentId": 200
+  },
+  {
+    "id": 202,
+    "title": "آية الكرسي",
+    "content": "اللّه لا إله إلا هو الحي القيوم...",
+    "note2": "حفظ من كل شر",
+    "link": "",
+    "order": 2,
+    "isGroup": false,
+    "parentId": 200
+  },
+  {
+    "id": 203,
+    "title": "المعوذات",
+    "content": "قل هو الله أحد... قل أعوذ برب الفلق... قل أعوذ برب الناس...",
+    "note2": "تقرأ ثلاث مرات",
+    "link": "",
+    "order": 3,
+    "isGroup": false,
+    "parentId": 200
+  },
+  {
+    "id": 204,
+    "title": "دعاء الكرب",
+    "content": "لا إله إلا الله العظيم الحليم...",
+    "note2": "يقال عند الشدة",
+    "link": "",
+    "order": 4,
+    "isGroup": false,
+    "parentId": 200
+  },
+  {
+    "id": 205,
+    "title": "ذكر المساء الآخر",
+    "content": "اللهم بك أمسينا وبك نحيا...",
+    "note2": "يقال مساءً",
+    "link": "",
+    "order": 5,
+    "isGroup": false,
+    "parentId": 200
+  },
+
+  {
+    "id": 300,
+    "title": "أدعية عامة",
+    "content": "",
+    "note2": "",
+    "link": "",
+    "order": 3,
+    "isGroup": true,
+    "parentId": 0
+  },
+  {
+    "id": 301,
+    "title": "دعاء السفر",
+    "content": "سبحان الذي سخر لنا هذا وما كنا له مقرنين...",
+    "note2": "يقال عند السفر",
+    "link": "",
+    "order": 1,
+    "isGroup": false,
+    "parentId": 300
+  },
+  {
+    "id": 302,
+    "title": "دعاء الاستخارة",
+    "content": "اللهم إني استخيرك بعلمك...",
+    "note2": "يقال عند التردد في أمر",
+    "link": "",
+    "order": 2,
+    "isGroup": false,
+    "parentId": 300
+  },
+  {
+    "id": 303,
+    "title": "دعاء دخول المنزل",
+    "content": "اللهم إني أسألك خير المولج وخير المخرج...",
+    "note2": "يقال عند دخول المنزل",
+    "link": "",
+    "order": 3,
+    "isGroup": false,
+    "parentId": 300
+  },
+  {
+    "id": 304,
+    "title": "دعاء الخروج من المنزل",
+    "content": "بسم الله توكلت على الله ولا حول ولا قوة إلا بالله.",
+    "note2": "يقال يقال عند الخروج من المنزل",
+    "link": "",
+    "order": 4,
+    "isGroup": false,
+    "parentId": 300
+  },
+  {
+    "id": 305,
+    "title": "دعاء دخول المسجد",
+    "content": "اللهم افتح لي أبواب رحمتك.",
+    "note2": "يقال عند دخول المسجد",
+    "link": "",
+    "order": 5,
+    "isGroup": false,
+    "parentId": 300
+  }
+]
