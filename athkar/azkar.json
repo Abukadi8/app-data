@@ -367,7 +367,7 @@
     "link": "",
     "order": 100,
     "parentId": 0,
-    "openMode": 6
+    "openMode": 7
   },
   {
     "id": 37,
@@ -408,5 +408,25 @@
     "order": 100,
     "parentId": 0,
     "openMode": 5
+  },
+  {
+    "id": 41,
+    "title": "Options",
+    "content": "",
+    "note2": "",
+    "link": "",
+    "order": 100,
+    "parentId": 0,
+    "openMode": 1
+  },
+  {
+    "id": 42,
+    "title": "Optionss",
+    "content": "",
+    "note2": "",
+    "link": "",
+    "order": 100,
+    "parentId": 0,
+    "openMode": 1
   }
 ]
