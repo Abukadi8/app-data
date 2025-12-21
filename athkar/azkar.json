@@ -17,7 +17,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 5
+    "openMode": 401
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 6
+    "openMode": 402
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 7
+    "openMode": 403
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 8
+    "openMode": 404
   },
   {
     "id": 6,
@@ -77,7 +77,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 9
+    "openMode": 501
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 2
+    "openMode": 201
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 7
+    "openMode": 203
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "link": "https://www.youtube.com/watch?v=RP2rJjXkv3w&list=PLIK9m8BL-7fqj9k9VaZPqTuDq6TQI3ZrR&index=6",
     "order": 100,
     "parentId": 0,
-    "openMode": 8
+    "openMode": 402
   },
   {
     "id": 11,
